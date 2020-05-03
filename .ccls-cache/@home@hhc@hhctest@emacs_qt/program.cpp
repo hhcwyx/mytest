@@ -13,7 +13,6 @@ int main(int argc, char *argv[])
     //this is a comment line.
     testClass wyx;
     wyx.testAdd(45, 23); 
-    wyx.testMesg();
-    //哈哈哈哈哈哈哈我就是为了改变一下这个文件.
+    //add a line.
     return 0;
 }
