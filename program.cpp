@@ -9,6 +9,9 @@ int main(int argc, char *argv[])
     hcx.testAdd(45,23);
     hcx.testMesg();
     hcx.testAdd(45, 32);
+    hcx.testMesg();
     //this is a comment line.
+    testClass wyx;
+    wyx.testAdd(45, 23); 
     return 0;
 }
